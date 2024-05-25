@@ -9,46 +9,39 @@
   <br />
   <br />
 
-  <h2 align="center">eduweb - Education Website</h2>
+  <h2 align="center">Unidades Tecnologicas de Santander - Web Uteista</h2>
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Web uteista es un proyecto <br />responsivo para todo dispositivo, sera contruido con tecnologias como HTML.CSS,JAVASCRITP y PHP.
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo 
 
 ![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Prerequisitos
 
-Before you begin, ensure you have met the following requirements:
+Necesitas como requisto:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git").
 
-### Run Locally
+### Ejecutar en local
 
-To run **EduWeb** locally, run this command on your git bash:
+Quieres ejecutarlo en tu pc ejecuta este comando:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+sudo git clone https://github.com/Santiago24x/Uts-actu.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduweb.git
+git clone https://github.com/Santiago24x/Uts-actu.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
